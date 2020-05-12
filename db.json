@@ -1,4 +1,13 @@
 {
-  "logins": [ { "id": 1, "token": "123" } ]
+  "logins": [ 
+    { "id": 1, 
+     "name": "Ali",
+     "phoneNo": 0199557246
+    },
+   { "id": 2, 
+     "name": "Zul",
+     "phoneNo": 01111004050
+    } 
+  ]
 }
 
