@@ -1,4 +1,7 @@
-[
+
+{
+  "people":
+  [
   {
   "id": 1,
   "name": "Ali Baba",
@@ -9,4 +12,5 @@
   "name": "Ali Baba",
   "PhoneNo": 12
   }
-]
+  ]
+}
