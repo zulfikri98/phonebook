@@ -1,11 +1,6 @@
 {
   "posts": [
-    { "id": 1, 
-     "body": "Ali", 
-     "phoneNo": 0199557260 },
-    { "id": 2, 
-     "body": "some comment", 
-     "phoneNo": 01111005060 }
+    { "id": 1, "Name": "Ali", "postId": 0199557240 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ]
-
 }
