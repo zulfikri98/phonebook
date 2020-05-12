@@ -1,8 +1,5 @@
-
-  "posts": [ 
-    { "id": 1, 
-     "name": "Ali",
-     "phoneNo": 0199557246
-    }
-  ]
-
+{"employees":[  
+    {"name":"Shyam", "email":"shyamjaiswal@gmail.com"},  
+    {"name":"Bob", "email":"bob32@gmail.com"},  
+    {"name":"Jai", "email":"jai87@gmail.com"}  
+]}
