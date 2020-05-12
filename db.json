@@ -1,14 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "name": "Zaimi",
-      "phoneNo": "0136947895"
-    },
-    {
-      "id": 2,
-      "name": "Zainal",
-      "phoneNo": "0158947758"
-    }
-  ]
+"name":"John",
+"age":30,
+"cars":[ "Ford", "BMW", "Fiat" ]
 }
