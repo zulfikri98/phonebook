@@ -1,21 +1,19 @@
-[
+{
+  "posts": [
     {
-      "userid": 1,
       "id": 1,
       "name": "Zul",
       "phoneno": "0199557568"
     },
     {
-       "userid": 1,
       "id": 2,
       "name": "Nazmi",
       "phoneno": "0199557568"
     },
     {
-          "userid": 1,
       "id": 3,
       "name": "Kamal",
       "phoneno": "0199557568"
     }
- ] 
-
+  ]
+}
