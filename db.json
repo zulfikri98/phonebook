@@ -1,14 +1,14 @@
 {
-  "comments": [
+  "posts": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Zaimi",
+      "phoneNo": 0136947895
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "name": "Zainal",
+      "phoneNo": 0158947758
     }
   ],
 }
